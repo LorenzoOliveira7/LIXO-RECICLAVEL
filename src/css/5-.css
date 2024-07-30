@@ -1,0 +1,33 @@
+div.container2{
+    width: 676px;
+height: 131px;
+border-radius: 39px;
+margin: 498px 0px 77px 0px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+h4{
+    
+height: 25px;
+top: 639px;
+left: 545px;
+gap: 0px;
+opacity: 0px;
+font-family:"Epilogue", sans-serif;
+font-size: 24px;
+font-weight: 500;
+line-height: 24.6px;
+text-align: left;
+color: #678363;
+}
+p{
+    width:650px;
+}
+div.p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 140px 0px 76px 0px;
+}

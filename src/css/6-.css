@@ -1,0 +1,133 @@
+div.container2{
+    width: 676px;
+height: 830px;
+top: 468px;
+left: 366px;
+gap: 0px;
+border-radius: 39px;
+opacity: 0px;
+background-color: #F4F9F3;
+display: flex;
+flex-direction: column;
+align-items: center;
+margin: 383px 0px 475px 0px;
+}
+
+h3{
+    width: 420px;
+height: 58px;
+top: 524px;
+left: 506px;
+gap: 0px;
+opacity: 0px;
+font-family:"Epilogue", sans-serif;
+font-size: 36px;
+font-weight: 400;
+line-height: 57.78px;
+letter-spacing: 0.155em;
+text-align: left;
+color: #000000;
+margin: 56px 122px 0px 140px;
+}
+
+h6#cima{
+    width: 394px;
+height: 52px;
+top: 582px;
+left: 523px;
+gap: 0px;
+opacity: 0px;
+font-family:"Epilogue", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 25.68px;
+letter-spacing: -0.035em;
+text-align: center;
+color: black;
+margin: 0px 125px 29px 157px;
+}
+
+img#lixo{
+    width: 145px;
+height: 145px;
+top: 663px;
+left: 640px;
+gap: 0px;
+opacity: 0px;
+margin: 0px 0px 12px 0px;
+}
+
+h6#baixo{
+    width: 204px;
+height: 26px;
+top: 820px;
+left: 602px;
+gap: 0px;
+opacity: 0px;
+font-family:"Epilogue", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 25.68px;
+letter-spacing: -0.035em;
+text-align: center;
+color: #000000;
+margin: 0px 0px 58px 0px;
+}
+
+h6#baixo2{
+    width: 292px;
+height: 26px;
+top: 904px;
+left: 558px;
+gap: 0px;
+opacity: 0px;
+font-family:"Epilogue", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 25.68px;
+letter-spacing: -0.035em;
+text-align: center;
+color: #000000;
+margin: 0px 0px 25px 0px;
+}
+
+div#Reais{
+    width: 278px;
+height: 93px;
+top: 955px;
+left: 561px;
+gap: 0px;
+border-radius: 26px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+background: #D9D9D9;
+color: #000000;
+margin: 0px 0px 25px 0px;
+font-size: 65px;
+display: flex;
+align-items: center;
+padding: 0px 0px 0px 24px;
+}
+
+button{
+    width: 184px;
+height: 50px;
+top: 1073px;
+left: 600px;
+gap: 0px;
+border-radius: 37px;
+opacity: 0px;
+background-color: #D9D9D9;
+color: #000000;
+border: none;
+font-family:"Epilogue", sans-serif;
+font-size: 16px;
+font-weight: 400;
+line-height: 25.68px;
+letter-spacing: -0.035em;
+text-align: center;
+
+}
+div.cinza{
+    margin: 1122px 0px 0px 0px;
+}

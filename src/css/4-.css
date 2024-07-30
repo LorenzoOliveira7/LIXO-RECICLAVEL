@@ -1,0 +1,103 @@
+div.container2{
+    width: 676px;
+height: 980px;
+border-radius: 39px ;
+background-color: #F4F9F3;
+    display: flex;
+    flex-direction: column;
+    margin: 163px 0px 91px 0px;
+}
+
+h4{
+    width: 414px;
+font-family: "Epilogue", sans-serif;
+font-size: 36px;
+font-weight: 500;
+line-height: 43.02px;
+letter-spacing: 0.005em;
+text-align: left;
+color: #678363;
+margin: 89px 134px 0px 128px ;
+}
+
+p#entre{
+    width: 300px;
+    font-family:"Epilogue", sans-serif;
+font-size: 15px;
+font-weight: 500;
+line-height: 17.93px;
+letter-spacing: 0.005em;
+text-align: center;
+color: #484545;
+margin: 0px 213px 18px 163px;
+}
+
+label.label{
+    width: 47px;
+    height: 18px;
+    font-family:"Epilogue", sans-serif;
+font-size: 15px;
+font-weight: 500;
+line-height: 17.93px;
+letter-spacing: 0.005em;
+text-align: left;
+margin: 0px 471px 4px 161px;
+}
+
+input{
+    width: 304px;
+    height: 32px;
+    top: 476px;
+    left: 543px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+background-color: #FFFFFF;
+color: black;
+margin: 0px 211px 38px 161px;    
+}
+
+label.labell{
+    width: 258px;
+height: 18px;
+top: 697px;
+left: 446px;
+gap: 0px;
+opacity: 0px;
+font-family:"Epilogue", sans-serif;
+font-size: 15px;
+font-weight: 500;
+line-height: 17.93px;
+letter-spacing: 0.005em;
+text-align: left;
+margin: 58px 354px 12px 64px;
+}
+
+input.quad-grand{
+    width: 559px;
+height: 277px;
+top: 727px;
+left: 446px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+color: #000000;
+margin: 0px 53px 95px 64px;
+}
+button{
+    width: 90px;
+height: 39px;
+top: 1099px;
+
+border-radius: 11px;
+background-color: #D9D9D9;
+color: #000000;
+margin: 0px 525px 90px 61px;
+}
+
+div.cinza{
+    margin: 668px 0px 0px 0px;
+}
+input#diferente{
+    margin: 0px 1026.07px 29px 137.07px;
+}
